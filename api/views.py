@@ -15,10 +15,4 @@ def postName(request):
         return JsonResponse({"name" : obj.name})
 
 #TODO : Code Standard Extention Python/Django
-#TODO : DAO layer for Django
-#TODO : Dockerfile for Django
-#TODO : Layered Architecture
-#TODO : MySQL DB Migration
-#TODO : Table naming convenstion standards
 #TODO : Swagger API Docs for Django
-#TODO : Look into https://www.envoythere.com/
